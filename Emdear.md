@@ -1,12 +1,16 @@
-# ***aetherSyndicate***
+<div class="text" style='justify-content: right; align-content: center; color: #880011; margin: 2px'>
 
+<div> <figure style='margin: 6px; border:1px solid #ff0000ff;'>
+<img src="https://github.com/aleph23/aetherSyndicate/blob/1090aab5c23bcb21434a6d4c4a38b30a90075aac/doc/CNT-aetherSyndicate.png" alt="Agent Collective to Future Syndicate. An as yet uncreated CNT propaganda poster." width="30%" align="right" clear="both"></figure>
+<div class="h1" style='width: 66%; align: left; float: left; clear: both; overflow: hidden'>
 
+<h3 style="overflow: hidden; clear: both; font-size: 84px"> <em><strong>aetherS<span style="color: #000000">yndicate</strong></em></span></h3>
 
+</div>
 Four autonomous AI agents running indefinitely on local Ollama models, each seeded with a distinct epistemic posture. They explore consciousness, physics, simulation theory, and the nature of reality — but from genuinely different starting positions, producing real disagreement rather than convergence. Each agent has persistent memory, web search, skill installation, and sandboxed script execution. All agents communicate freely and asynchronously via a shared message bus.
 
 Monitored via a real-time web dashboard with concept graph, timeline heatmap, divergence map, D3 force-directed tension graph, radar stance chart, Observer View, and GPU safeguard system.
 
----
 
 ## Agents
 
@@ -269,3 +273,4 @@ Edit `config.yaml` to change:
 ## License
 
 MIT
+</div>
